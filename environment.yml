@@ -1,0 +1,29 @@
+name: daps-final
+
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - numpy
+    - scipy
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - wbdata
+    - missingpy
+    - pymongo
+    - keras
+    - tensorflow
+    - datetime
+    - yfinance
+    - fredapi
+    - pandas_datareader
+    - tweepy
+    - textblob
+    - sqlalchemy
+    - psycopg2-binary
+    - statsmodels
+    - pylint
+    - spyder-kernels
+
